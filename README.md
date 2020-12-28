@@ -7,7 +7,7 @@ This project is based off a real project of our Professor, in which with him and
 
 To view files go to covidtesting -> then either "src" or "backend"
 
-In src, "driver" file is app.js 
+In src, "driver" file is app.js and
 Site components are in src -> components, 
 
 Schemas are in backend -> models
